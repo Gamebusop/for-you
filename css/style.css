@@ -28,8 +28,8 @@
   #yes{
     position: absolute;
     display: inline-block;
-    left: 70%; 
-    top: 40vh;
+    left: 30%; 
+    top: 20vh;
     -webkit-transition: all 0.3s ease-out;
   }
 
