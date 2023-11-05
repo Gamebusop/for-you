@@ -80,7 +80,7 @@ header h4 {
     position: absolute;
     display: inline-block;
     left: 50%; 
-    top: 20vh;
+    top: 10vh;
     font-size: 14px;
     padding: 3px;
     -webkit-transition: all 0.3s ease-out;
