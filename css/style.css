@@ -79,8 +79,8 @@ header h4 {
   #yes{
     position: absolute;
     display: inline-block;
-    left: 58%; 
-    top: 40vh;
+    left: 50%; 
+    top: 20vh;
     font-size: 14px;
     padding: 3px;
     -webkit-transition: all 0.3s ease-out;
